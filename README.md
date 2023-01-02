@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning some machine learning stuff.
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tyler-grant-a295a5219/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/tylermgrant/">Linkedin</a>
 
 
